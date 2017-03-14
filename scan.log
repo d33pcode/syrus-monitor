@@ -1,0 +1,9 @@
+PortScanner started at 2017-03-13 18:11:19.765821
+
+[95.110.211.146] Port 22 is open
+[95.110.211.225] Port 80 returned code 0: Success
+[95.110.211.225] Port 8080 returned code 113: No route to host
+[77.81.234.82] Port 80 returned code 0: Success
+[google.com] Port 80 returned code 0: Success
+[google.com] Port 81 returned code 110: Connection timed out
+[google.com] Port 82 returned code 110: Connection timed out
